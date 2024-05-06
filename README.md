@@ -1,5 +1,19 @@
-### Hi there 👋
+### Him I'm Luis Benegas 👋
+![LUIS FERNANDO BENEGAS BOGADO-en](https://github.com/luferino/luferino/assets/53922378/f9d561da-479a-469e-8b56-858f28addaff)
 
+<p><em>Software Enginner at <a href="https://www.uci.edu.py/uciweb/public/"> Universidad Católica - Campus Itapúa </a>
+</em></p>
+
+```javascript
+const luferino = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [Nodejs, Git, Docker],
+  databases: [MySQL, PostgreSQL, MongoDB]
+}
+```
+You can Find me 🌎:
+- [linkedin](www.linkedin.com/in/luis-fernando-benegas-bogado)
 <!--
 **luferino/luferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
