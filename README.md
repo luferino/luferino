@@ -1,7 +1,7 @@
 ### Hi, I'm Luis Benegas 👋
 ![LUIS FERNANDO BENEGAS BOGADO-en](https://github.com/luferino/luferino/assets/53922378/f9d561da-479a-469e-8b56-858f28addaff)
 
-<p><em>Software Enginner at <a href="https://www.uci.edu.py/uciweb/public/"> Universidad Católica - Campus Itapúa </a>
+<p><em>Computer Engineering at <a href="https://www.uci.edu.py/uciweb/public/"> Universidad Católica - Campus Itapúa </a>
 </em></p>
 
 ```javascript
