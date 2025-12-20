@@ -7,8 +7,9 @@
 ```javascript
 const luferino = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java],
+  code: [Javascript, HTML, CSS, Java, Rust],
   tools: [Nodejs, Git, Docker],
+  lowCodeTools: [ Scriptcase ],
   databases: [MySQL, PostgreSQL, MongoDB]
 }
 ```
