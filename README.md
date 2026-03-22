@@ -10,7 +10,7 @@ const luferino = {
   code: [Javascript, HTML, CSS, Java, Rust],
   tools: [Nodejs, Git, Docker],
   lowCodeTools: [ Scriptcase ],
-  databases: [MySQL, PostgreSQL, MongoDB]
+  databases: [OracleSQL,MySQL, PostgreSQL, MongoDB]
 }
 ```
 You can Find me 🌎:
